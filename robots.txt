@@ -1,0 +1,7 @@
+User-Agent: *
+
+Disallow:
+
+
+Sitemap: http://pinup.jetskiracing.pro/sitemap.xml
+Host: pinup.jetskiracing.pro
